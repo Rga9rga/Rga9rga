@@ -1,13 +1,27 @@
 # Hi there, I’m Rubén Gálvez ✋
 
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200">
-    <rect width="100%" height="100%" fill="#0d1117"/>
-    <text x="50%" y="40%" text-anchor="middle" fill="#ffffff" font-size="32" font-family="Arial, sans-serif">Welcome to</text>
-    <text x="50%" y="60%" text-anchor="middle" fill="#58a6ff" font-size="48" font-family="Arial, sans-serif">Rubén Gálvez's GitHub</text>
-    <text x="50%" y="80%" text-anchor="middle" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Code | Create | Collaborate</text>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200" role="img" aria-labelledby="title">
+    <title>Welcome to Rubén Gálvez's GitHub</title>
+    <rect width="800" height="200" fill="url(#gradient)" />
+    <defs>
+      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0%" stop-color="#0d47a1" />
+        <stop offset="100%" stop-color="#1e88e5" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="40%" text-anchor="middle" fill="#ffffff" font-size="36" font-family="Arial, Helvetica, sans-serif">
+      Welcome to
+    </text>
+    <text x="50%" y="65%" text-anchor="middle" fill="#ffcc00" font-size="48" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+      Rubén Gálvez's GitHub
+    </text>
+    <text x="50%" y="85%" text-anchor="middle" fill="#ffffff" font-size="20" font-family="Arial, Helvetica, sans-serif">
+      Code | Create | Collaborate
+    </text>
   </svg>
 </div>
+
 
 
 I’m a passionate **Web Development Student** currently exploring the world of programming and building my skill set. Always curious, always learning.
