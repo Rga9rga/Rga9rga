@@ -1,26 +1,7 @@
 # Hi there, I’m Rubén Gálvez ✋
 
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200" role="img" aria-labelledby="title">
-    <title>Welcome to Rubén Gálvez's GitHub</title>
-    <rect width="800" height="200" fill="url(#gradient)" />
-    <defs>
-      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="1">
-        <stop offset="0%" stop-color="#0d47a1" />
-        <stop offset="100%" stop-color="#1e88e5" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="40%" text-anchor="middle" fill="#ffffff" font-size="36" font-family="Arial, Helvetica, sans-serif">
-      Welcome to
-    </text>
-    <text x="50%" y="65%" text-anchor="middle" fill="#ffcc00" font-size="48" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
-      Rubén Gálvez's GitHub
-    </text>
-    <text x="50%" y="85%" text-anchor="middle" fill="#ffffff" font-size="20" font-family="Arial, Helvetica, sans-serif">
-      Code | Create | Collaborate
-    </text>
-  </svg>
-</div>
+![Welcome Banner](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgODAwIDIwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWRpZW50IiB4MT0iMCIgeDI9IjEiIHkxPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwZDQ3YTEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFlODhlNSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2dyYWRpZW50KSIgLz4KICA8dGV4dCB4PSI1MCUiIHk9IjQwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZiIgZm9udC1zaXplPSIzNiIgZm9udC1mYW1pbHk9IkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiPldlbGNvbWUgdG8gPC90ZXh0PgogIDx0ZXh0IHg9IjUwJSIgeT0iNjUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZjYzAwIiBmb250LXNpemU9IjQ4IiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiPlJ1YsOpbiBHw6FsdmV6J3MgR2l0SHViPC90ZXh0PgogIDx0ZXh0IHg9IjUwJSIgeT0iODUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmIiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiI+Q29kZSAmIENVSEFSIDx8IENvbGxhYm9yYXRlPC90ZXh0Pgo8L3N2Zz4=)
+
 
 
 
