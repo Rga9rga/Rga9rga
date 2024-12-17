@@ -1,11 +1,5 @@
 # Hi there, I’m Rubén Gálvez ✋
 
-# **¡Bienvenido!**  
-### RGA
-
-
-
-
 I’m a passionate **Web Development Student** currently exploring the world of programming and building my skill set. Always curious, always learning.
 
 ---
