@@ -1,6 +1,9 @@
 # Hi there, I’m Rubén Gálvez ✋
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)  
+<div align="center" style="padding: 20px; background: linear-gradient(135deg, #ff7e5f, #feb47b); border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+  <h1 style="font-family: 'Arial', sans-serif; color: white; font-size: 2.5em; margin-bottom: 10px;">Welcome to My GitHub Profile</h1>
+  <p style="font-family: 'Arial', sans-serif; color: #ffffff; font-size: 1.2em;">Exploring, learning, and building the future of web development. Let's connect and create amazing projects together!</p>
+</div>
 
 I’m a passionate **Web Development Student** currently exploring the world of programming and building my skill set. Always curious, always learning.
 
