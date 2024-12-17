@@ -1,6 +1,6 @@
 # Hi there, I’m Rubén Gálvez ✋
 
-![Banner](https://svgshare.com/i/urs.svg)  
+![Welcome Banner](https://i.imgur.com/8Km9tLL.png)
 
 I’m a passionate **Web Development Student** currently exploring the world of programming and building my skill set. Always curious, always learning.
 
